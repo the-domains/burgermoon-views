@@ -1,7 +1,7 @@
 name: BurgerMoon Views
 favicon: null
-layout_spectrum: 0.877622350351885
-typography_spectrum: 0.7985155987553298
+layout_spectrum: 0.25879
+typography_spectrum: 0.24037
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.3757290435023606
-  lightness: 0.7023646519519389
-  saturation: 0.3666976378299296
-  rhythmicContrast: 0.6118445135653019
+    - '#000000'
+    - '#fefefe'
+    - '#e91900'
+    - '#e17e00'
+    - '#5bbdda'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.75
+  rhythmicContrast: 0.5
 purpose: []
